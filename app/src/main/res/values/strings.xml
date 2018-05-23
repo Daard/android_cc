@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Coding Challenge</string>
+    <string name="title_place_detail">Place Detail</string>
+
+    <string name="no_location_detected">
+        No location detected. Make sure location is enabled on the device.
+    </string>
+
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+        functionality.</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="list">list</string>
+    <string name="sort">sort by</string>
+    <string name="rating">Rating</string>
+    <string name="distance">Distance</string>
+
+    <string name="item_rating">Rating: %1$.1f</string>
+    <string name="item_distance">%1$.1f km</string>
+
+
+
+</resources>
